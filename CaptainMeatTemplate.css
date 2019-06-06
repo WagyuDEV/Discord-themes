@@ -1,3 +1,7 @@
+:root{
+    --appbar: var(--appbar);
+}
+
 /*app bar*/
 #app-mount{
     background: var(--appbar)!important;
