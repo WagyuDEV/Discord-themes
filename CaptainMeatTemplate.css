@@ -1,4 +1,4 @@
 /*app bar*/
 #app-mount{
-    --appbar: var(--appbar)!important;
+    background: var(--appbar)!important;
 }
