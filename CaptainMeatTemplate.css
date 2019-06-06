@@ -1,0 +1,4 @@
+/*app bar*/
+#app-mount{
+    --appbar: var(--appbar)!important;
+}
