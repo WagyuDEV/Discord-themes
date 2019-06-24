@@ -1,5 +1,5 @@
 :root{
-    --appbar: rgb(141,0,211); /* this is your default value for "appbar" as a fallback */
+    --background: rgb(141,0,211); /* this is your default value for "appbar" as a fallback */
 }
 
 /*app bar*/
