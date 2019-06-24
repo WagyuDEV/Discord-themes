@@ -4,5 +4,5 @@
 
 /*app bar*/
 #app-mount{
-    background: var(--appbar); /* this sets the background to "appbar" */
+    background: var(--background); /* this sets the background to "appbar" */
 }
